@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "CSharp8": {
+      "commandName": "Project"
+    }
+  }
+}

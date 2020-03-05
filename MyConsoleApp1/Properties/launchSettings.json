@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "MyConsoleApp1": {
-      "commandName": "Project",
-      "commandLineArgs": "ignorado1 ignorado2 Silva Santos Bassi"
-    }
-  }
-}
